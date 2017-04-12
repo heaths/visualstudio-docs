@@ -73,4 +73,5 @@ In addition, the [Setup Configuration API](https://msdn.microsoft.com/en-us/libr
 * [Create an offline installer for Visual Studio 2017](create-an-offline-installation-of-visual-studio.md)
 * [Use command-line parameters to install Visual Studio 2017](use-command-line-parameters-to-install-visual-studio.md)
   * [Command-line parameter examples](command-line-parameter-examples.md)
+* [Set deployment policies](deployment-policies.md)
 * [Report a problem with Visual Studio 2017](../ide/how-to-report-a-problem-with-visual-studio-2017.md)
